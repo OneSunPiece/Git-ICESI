@@ -1,5 +1,5 @@
-name: hola-mundo
-run-name: ¡Estoy aprendiendo!
+name: Dar la hora
+run-name: ¡Estoy Calculando el tiempooo!
 on:
   schedule:
     - cron: '0 10 * * *'
